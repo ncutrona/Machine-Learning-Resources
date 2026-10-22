@@ -1,1 +1,1 @@
-# Machine_Learning_Resources
+# Machine-Learning-Resources
