@@ -23,10 +23,10 @@ Each module aims to develop the underlying mathematics carefully before implemen
 
 Readers should be comfortable with the following mathematical subjects:
 
-- **Vector Spaces** 
 - **Multivariable Calculus**
-- **Elementary Probability Theory** 
-- **Real Analysis**
+- **Functional Analysis** 
+- **Measure-Theoretic Probability Theory** 
+
 
 A background in machine learning is not required.
 
